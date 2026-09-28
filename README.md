@@ -1,2 +1,2 @@
 # Operating-System
-here we compel lab codes of operating system subject
+here we compelete lab codes of operating system subject
